@@ -1,6 +1,6 @@
 //icons
 const icAdd = "assets/icons/add.png";
-const icAppLogo = "assets/icons/app_logo.png";
+const icAppLogo = "assets/icons/Applogo.png";
 const icAppleLogo = "assets/icons/apple_logo.png";
 const icArrow = "assets/icons/arrow.png";
 const icBell = "assets/icons/bell.png";
@@ -38,7 +38,8 @@ const icProfile = "assets/icons/profile.png";
 const icRefund = "assets/icons/refund.png";
 const icSearch = "assets/icons/search.png";
 const icShop = "assets/icons/shop.png";
-const icSplashBg = "assets/icons/splash_login_registration_background_image.png";
+const icSplashBg =
+    "assets/icons/splash_login_registration_background_image.png";
 const icSquareLogo = "assets/icons/square_logo.png";
 const icTodaysDeal = "assets/icons/todays_deal.png";
 const icTopCategories = "assets/icons/top_categories.png";
@@ -107,7 +108,7 @@ const imgS2 = "assets/images/s2.jpg";
 const imgS3 = "assets/images/s3.jpg";
 const imgS4 = "assets/images/s4.jpg";
 const imgS5 = "assets/images/s5.jpg";
-const imgS6 = "assets/images/s6.jpg";
+const imgS6 = "assets/images/s6.jpg"; 
 const imgS7 = "assets/images/s7.jpg";
 const imgS8 = "assets/images/s8.jpg";
 const imgS9 = "assets/images/s9.jpg";
