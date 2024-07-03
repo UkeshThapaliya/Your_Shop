@@ -29,7 +29,29 @@ class LoginScreen extends StatelessWidget {
                 ),
               ),
               5.heightBox,
-              ourButton().box.width(context.screenWidth - 50).make(),
+             
+              ourButton(
+                      color: blueColor,
+                      title: login,
+                      textColor: whiteColor,
+                      onPress: () {})
+                  .box
+                  .width(context.screenWidth - 50)
+                  .make(),
+                  5.heightBox,
+                  createNewAcc.text.color(fontGrey).make(),
+
+                   5.heightBox,
+              ourButton(
+                      color: golden,
+                      title: signUp,
+                      textColor: blueColor,
+                      onPress: () {})
+                  .box
+                  .width(context.screenWidth - 50)
+                  .make(),
+              5.heightBox,
+              createNewAcc.text.color(fontGrey).make(),
             ],
           )
               .box
